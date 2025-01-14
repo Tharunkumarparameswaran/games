@@ -1,7 +1,7 @@
 Name1 = input("Enter the name1: ").lower()
 Name2 = input("Enter the name2: ").lower()
 name1 = Name1.replace(" ", "")
-name3 = Name2.replace(" ", "")
+name2 = Name2.replace(" ", "")
 
 for i in name1:
     for j in name2:
